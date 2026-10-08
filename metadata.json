@@ -1,0 +1,6 @@
+{
+  "name": "Laptop Remote WiFi",
+  "description": "تحكم باللابتوب من الهاتف عبر الواي فاي، لوحة لمس، كيبورد، وإطلاق تطبيقات اللابتوب بسهولة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

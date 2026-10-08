@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laptop Remote</string>
+    <string name="app_name_ar">تحكم اللابتوب</string>
+    <string name="tab_trackpad">الفأرة واللمس</string>
+    <string name="tab_apps">التطبيقات</string>
+    <string name="tab_controls">التحكم والوسائط</string>
+    <string name="tab_connection">الاتصال والسيرفر</string>
+</resources>
